@@ -1,0 +1,6 @@
+google-adk
+fastapi
+uvicorn
+python-dotenv
+google-genai
+psycopg2-binary

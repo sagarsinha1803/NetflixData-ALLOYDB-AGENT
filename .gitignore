@@ -1,0 +1,21 @@
+# Environment variables
+.env
+.env.*
+ 
+# Virtual environment
+.venv/
+venv/
+env/
+ 
+# ADK
+.adk/
+ 
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+ 
+# IDE
+.vscode/
+.idea/
+ 
